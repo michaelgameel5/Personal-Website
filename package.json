@@ -1,0 +1,16 @@
+{
+  "name": "michael-gameel-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Michael Gameel - Cybersecurity & Networking Specialist",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "laravel-vite-plugin": "^0.8.0",
+    "vite": "^4.4.0"
+  },
+  "dependencies": {}
+}
+
